@@ -61,4 +61,6 @@ This project exists because of your time, effort, and curiosity.
 - **GitHub:** https://github.com/thenix09
 - **About:** First-year student at IIIT Allahabad, interested in software engineering and open-source contributions.
 
-
+- **Name:** Vinay Mohan
+  **GitHub:** https://github.com/vinay2047
+  **About:** Sophomore at IIITA interested in development.
